@@ -1,1 +1,2 @@
-# Repositório de Teste de Merge Conflict
+# Atividade 1
+# Projeto de teste do GitHub
